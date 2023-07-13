@@ -21,8 +21,7 @@ p {
   	margin-bottom: 100px;
  	margin-right: 105px;
   	margin-left: 105px;
-	border: solid;
-	border-color: #FAFBF2;
+	border: 2px solid #FAFBF2;
 }
 
 h3 {
@@ -33,5 +32,21 @@ h3 {
 	color:#E3C565;
 }
 
+a:link {
+  color: #FAFBF2;
+}
+
+a:visited {
+  color: #FAFBF2;
+}
+
+a:hover {
+  color: ##595959;
+}
+
+	
+	
+	
+	
 
 
