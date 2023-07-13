@@ -15,13 +15,14 @@ h3 {
 	color: #E3C565;
 }
 
-body p {
+ p {
     color: #E3C565;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 150px;
     border: 10px solid #FAFBF2;
+    padding: 1px;
 }
 
 h3 {
