@@ -10,13 +10,15 @@
         <div class = "center">
             <center>
                 <FONT COLOR="BlUE">
-                <h1>Midterm Project</h1><br>
+                <h1 style="background-color:grey;">Midterm Project</h1><br>
                 <h2>By Kavin, Stanley, Noah, and Wallyson </h2><br>
                 <h3>Our topic was to create a model that can give recommendations for a person based on the articles they read!</h3><br>
                 <p>We decided to approach this problem with an LDA model, which stands for Latent Dirichlet allocation. This model works by going through topics and selecting words that fit those topics. 
                 We first pre-processed our data, which means removing all the necessary words from the beginning and the end of the documents, like the citations and acknowledgments. Then we defined two functions. 
                 The first function was used to read and open all our data or files. The second function was our model. In the second function, we converted the words in the documents into a matrix which was fed into
-                the LDA model. Then we used the cosine similarity to determine which documents had the highest similarity scores, and those were picked for the recommendation. </p><br>
+                the LDA model. Then we used the cosine similarity to determine which documents had the highest similarity scores, and those were picked for the recommendation. We then used our model on our data. First
+                we used the glob function to read all our files. Next, we split our data into training and testing data. In the training data we put all but one document, and in the testing data we put one document and 
+                was to simulate a person reading the article. </p><br>
                 <h3>Our resources</h3><br>
                 <a href="https://www.nltk.org/">NLTK Library</a><br>
                 <h3>View Our Code!</h3><br>
