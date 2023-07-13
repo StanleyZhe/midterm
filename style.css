@@ -19,8 +19,9 @@ p {
     color: #E3C565;
     margin: 40px;
     border: 1px solid #FAFBF2;
-    padding: 15px;
-    line-height: 30px;
+    padding: 20px;
+    display: inline-block;
+    box-sizing: border-box;
 }
 
 h3 {
