@@ -1,3 +1,26 @@
 body {
-	background-color: dark_grey;
+	background-color: #9C9C9C;
 }
+
+h1 {
+	background-color: #E3C565;
+	color: #FAFBF2;
+}
+
+h2 {
+	color: #E3C565;
+}
+
+h3 {
+	color: #E3C565;
+}
+
+p {
+	color: #E3C565;
+	margin-top: 10px;
+  	margin-bottom: 10px;
+ 	margin-right: 10px;
+  	margin-left: 10px;
+}
+
+
