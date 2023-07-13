@@ -16,17 +16,16 @@ h3 {
 }
 
 p {
-	color: #E3C565;
-	margin-top: 100px;
-  	margin-bottom: 100px;
- 	margin-right: 105px;
-  	margin-left: 105px;
-	border: 100px solid;
-	border-color: #FAFBF2;
-	padding-top: 20px;
-    	padding-bottom: 20px;
-    	padding-left: 20px;
-    	padding-right: 20px;
+    color: #E3C565;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+    border: 100px solid #FAFBF2;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 h3 {
